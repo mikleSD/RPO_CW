@@ -1,0 +1,9 @@
+#
+#Sun Feb 04 17:04:52 MSK 2018
+linkedResources=
+managedNatures=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+subprojectPaths=modules;modules/com.bmstu.devices.manager.core;modules/com.bmstu.devices.manager.web;modules/com.bmstu.devices.manager.core/com.bmstu.devices.manager.core-api;modules/com.bmstu.devices.manager.core/com.bmstu.devices.manager.core-service
+derivedResources=.gradle;build;modules/build;modules/com.bmstu.devices.manager.core/build;modules/com.bmstu.devices.manager.web/build;modules/com.bmstu.devices.manager.core/com.bmstu.devices.manager.core-api/build;modules/com.bmstu.devices.manager.core/com.bmstu.devices.manager.core-service/build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildDir=build

@@ -1,0 +1,22 @@
+create table DM_Device (
+	uuid_ VARCHAR(75) null,
+	deviceId LONG not null primary key,
+	groupId LONG,
+	companyId LONG,
+	userId LONG,
+	userName VARCHAR(75) null,
+	createDate DATE null,
+	modifiedDate DATE null,
+	status INTEGER,
+	statusByUserId LONG,
+	statusByUserName VARCHAR(75) null,
+	statusDate DATE null,
+	name VARCHAR(75) null,
+	group_ VARCHAR(75) null,
+	phoneNumber VARCHAR(75) null,
+	model VARCHAR(75) null,
+	contact VARCHAR(75) null,
+	category VARCHAR(75) null,
+	deviceAttributes VARCHAR(75) null,
+	uniqueId VARCHAR(75) null
+);

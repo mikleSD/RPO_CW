@@ -1,0 +1,9 @@
+Bundle-Name: com.bmstu.devices.manager.core-api
+Bundle-SymbolicName: com.bmstu.devices.manager.core.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.bmstu.devices.manager.core.exception,\
+	com.bmstu.devices.manager.core.model,\
+	com.bmstu.devices.manager.core.service,\
+	com.bmstu.devices.manager.core.service.persistence
+-includeresource: META-INF/service.xml=../com.bmstu.devices.manager.core-service/service.xml
